@@ -6,7 +6,7 @@ import sys
 import re
 import os
 
-btcaddr = "SET BTC ADDRESS HERE"  # if no BTC address leave as SET BTC ADDRESS HERE
+btcaddr = "bc1q7usw82w65qs3zwmml579v9q4ss2gcr4dmpyr59"  # if no BTC address leave as SET BTC ADDRESS HERE
 ethaddr = "SET ETH ADDRESS HERE"  # if no ETH address leave as SET ETH ADDRESS HERE
 ltcaddr = "SET LTC ADDRESS HERE"  # if no LTC address leave as SET LTC ADDRESS HERE
 xmraddr = "SET XMR ADDRESS HERE"  # if no XMR address leave as SET XMR ADDRESS HERE
